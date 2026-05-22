@@ -1,8 +1,9 @@
 {
   "name": "servidor-recursos",
   "version": "0.0.1",
-  "description": "",
+  "description": "servidor de recursos de MME",
   "author": "David Labiano",
+  "main": "dist/main.js",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
